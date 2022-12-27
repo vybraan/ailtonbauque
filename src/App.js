@@ -4,7 +4,7 @@ import Home from './Home';
 
 function App() {
   return (
-    <div className="">
+    <div className="dark">
       <Home/>
     </div>
   );
