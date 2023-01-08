@@ -1,6 +1,6 @@
 import Header from './components/Header';
 import banner from './banner.svg';
-import Footer from './Footer';
+import Footer from './components/Footer';
 
 const Home = () =>{
 	return(
